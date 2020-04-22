@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+#INTERNATIONAL CONGRESS - THE NAME IS PENDING  
 
-You can use the [editor on GitHub](https://github.com/raulbm/InternationalCongress/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##BIOMEDICAL ENGINEERING AND HEALTHCARE 
+*	Image processing for medical applications. 
+  *	Image Registration using Machine learning;
+  * Medical Image Segmentation;
+* Analysis and relationship of air tracing for Parkinson's disease.
+  * Air tracing sensory techniques
+  * Statistical model for Parkinson's disease patients.
+* Acoustic pollution measurement system in learning environments
+  *	Sound measure techniques
+  * Statistical studies in big cities
+  * Deep learning for acoustic noise classification
+* Model for estimating movement patterns of people with reduced mobility
+  *	Pattern recognition and machine learning to study human mobility 
+* Analysis of the human gait by wearable devices
+  * Signal Processing for Bio-signals 
+ 
+##ECONOMY AND BUSINESS
+ 
+•	Success and Failure of university studies in Accounting and Auditing.
+o	 
+* Production, sustainability and success in the primary sector.
+  * Sensory analysis with ML models to improve Cheese production.
+* Predictive Analysis using model decisions to identify Zombie Companies.
+  * Benchmark: Bayesian vs Other Machine Learning methods approach.
+* CaaT Tools are dead? The Arising of AI Tools in the Audit Procedures.
+  * Robotic Process Automation for Internal Audit: use cases.
+  * Cognitive assistants using NLP for the Audit Plan.
+  * An application of EDA (Exploratory Data Analysis) in Auditing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raulbm/InternationalCongress/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
