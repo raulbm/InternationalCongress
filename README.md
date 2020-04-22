@@ -2,10 +2,9 @@
 
 
 ##  BIOMEDICAL ENGINEERING AND HEALTHCARE 
-*	Image processing for medical applications. 
-   * Image Registration using Machine learning.
-   * Medical Image Segmentation.
-* Analysis and relationship of air tracing for Parkinson's disease.
+*	Image processing for medical applications.
+  * Image Registration using Machine learning.Medical Image Segmentation.
+  * Analysis and relationship of air tracing for Parkinson's disease.
   * Air tracing sensory techniques
   * Statistical model for Parkinson's disease patients.
 * Acoustic pollution measurement system in learning environments
@@ -49,7 +48,17 @@
   * Digital divide solutions for Smart Cities.
 
 ##  SECURITY ON NFV-SDN-BASED INFRAESTRUCTURES
-* Evaluación y propuesta de mecanismos de seguridad en una infraestructura de red basada en SDN.
+*	NFV and SDN Architectures, Infrastructure, Elements and Operatios
+  * Improvements in design of forwarding elements, e.g. switches/routers, wireless systems
+  * Improvements in future communication infrastructure enabled by SDN and NFV
+  * Application of machine learning and big data analytics to manage software defined and/or virtualized networks
+* NFV and SDN Security proposals
+  * Security threats and vulnerabilities introduced by NFV and SDN technologies
+  * Threat detection and mitigation through SDN and NFV
+  * Application, control and forwarding plane securing mechanisms
+  * SDN-NFV security using artificial intelligence
+  * Security and isolation impacts of virtualization technologies
+
 
 ##  Technical Program Chair:
 * Ana María López Nemtseva
