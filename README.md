@@ -3,8 +3,8 @@
 
 ## BIOMEDICAL ENGINEERING AND HEALTHCARE 
 *	Image processing for medical applications. 
-  * Image Registration using Machine learning;
-  * Medical Image Segmentation;
+  * Image Registration using Machine learning.
+  * Medical Image Segmentation.
 * Analysis and relationship of air tracing for Parkinson's disease.
   * Air tracing sensory techniques
   * Statistical model for Parkinson's disease patients.
@@ -33,8 +33,7 @@
 
 ## ECONOMY AND BUSINESS
  
-* Success and Failure of university studies in Accounting and Auditing.
- *  
+* Success and Failure of university studies in Accounting and Auditing. 
 * Production, sustainability and success in the primary sector.
   * Sensory analysis with ML models to improve Cheese production.
 * Predictive Analysis using model decisions to identify Zombie Companies.
@@ -46,8 +45,8 @@
 
 ## SMART CITIES
 * Future Smart Cities.
-* Smart City Challenges.
-* Digital divide solutions for Smart Cities.
+ * Smart City Challenges.
+ * Digital divide solutions for Smart Cities.
 
 ## SECURITY ON NFV-SDN-BASED INFRAESTRUCTURES
 * Evaluación y propuesta de mecanismos de seguridad en una infraestructura de red basada en SDN.
