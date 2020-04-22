@@ -21,14 +21,14 @@
 
 ##  OPTICAL COMMUNICATION
 *	Development of an Experimental System of Optical Camera Communications for Sensor Networking.
- * Visible Light Communications and LiFi applications.
- * Optical Camera Communications for Smart Cities.
- * Optical networking for Smart Cities.
- * Positioning Systems based on VLC/OCC.
- * VLC for IoT applications.
+  * Visible Light Communications and LiFi applications.
+  * Optical Camera Communications for Smart Cities.
+  * Optical networking for Smart Cities.
+  * Positioning Systems based on VLC/OCC.
+  * VLC for IoT applications.
 *	Non-guided optical communication techniques for multispectral cameras.
- * Optical Camera Communication applications.
- * Optical Camera Communication techniques.
+  * Optical Camera Communication applications.
+  * Optical Camera Communication techniques.
 
 ##  ECONOMY AND BUSINESS
  
