@@ -2,7 +2,7 @@
 
 
 ##  BIOMEDICAL ENGINEERING AND HEALTHCARE 
-*	Image processing for medical applications.
+* Image processing for medical applications.
   * Image Registration using Machine learning.Medical Image Segmentation.
   * Analysis and relationship of air tracing for Parkinson's disease.
   * Air tracing sensory techniques
@@ -48,7 +48,7 @@
   * Digital divide solutions for Smart Cities.
 
 ##  SECURITY ON NFV-SDN-BASED INFRAESTRUCTURES
-*	NFV and SDN Architectures, Infrastructure, Elements and Operatios
+* NFV and SDN Architectures, Infrastructure, Elements and Operatios
   * Improvements in design of forwarding elements, e.g. switches/routers, wireless systems
   * Improvements in future communication infrastructure enabled by SDN and NFV
   * Application of machine learning and big data analytics to manage software defined and/or virtualized networks
