@@ -6,11 +6,12 @@ The topics of interest include, but are not limited to:
 
 ##  BIOMEDICAL ENGINEERING AND HEALTHCARE 
 * Image processing for medical applications.
-  * Image Registration using Machine learning.Medical Image Segmentation.
-  * Analysis and relationship of air tracing for Parkinson's disease.
+  * Image Registration using Machine learning.
+  * Medical Image Segmentation.
+* Analysis and relationship of air tracing for Parkinson's disease.
   * Air tracing sensory techniques
   * Statistical model for Parkinson's disease patients.
-* Acoustic pollution measurement system in learning environments
+* System for measuring noise pollution in learning environments.
   *	Sound measure techniques
   * Statistical studies in big cities
   * Deep learning for acoustic noise classification
