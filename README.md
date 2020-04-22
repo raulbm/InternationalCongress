@@ -1,6 +1,8 @@
 # INTERNATIONAL CONGRESS - THE NAME IS PENDING  
 
 # TECHNICAL PROGRAM
+Themes and Topics
+The topics of interest include, but are not limited to:
 
 ##  BIOMEDICAL ENGINEERING AND HEALTHCARE 
 * Image processing for medical applications.
@@ -17,8 +19,9 @@
 * Analysis of the human gait by wearable devices
   * Signal Processing for Bio-signals 
  
-##  RADIO COMMUNICATION
+##  RF COMMUNICATION
 * Transmission and reception architectures.
+  * Maritime Communications.
 
 ##  OPTICAL COMMUNICATION
 * Development of an Experimental System of Optical Camera Communications for Sensor Networking.
