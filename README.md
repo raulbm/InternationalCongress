@@ -3,8 +3,8 @@
 
 ## BIOMEDICAL ENGINEERING AND HEALTHCARE 
 *	Image processing for medical applications. 
-  * Image Registration using Machine learning.
-  * Medical Image Segmentation.
+  - Image Registration using Machine learning.
+  - Medical Image Segmentation.
 * Analysis and relationship of air tracing for Parkinson's disease.
   * Air tracing sensory techniques
   * Statistical model for Parkinson's disease patients.
