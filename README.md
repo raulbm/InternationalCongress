@@ -37,7 +37,11 @@ The topics of interest include, but are not limited to:
 
 ##  ECONOMY AND BUSINESS
  
-* Success and Failure of university studies in Accounting and Auditing. 
+* Success and Failure of university studies in Accounting and Auditing.
+  * Prediction model for university student dropout
+  * Use of Aritificial Intelligence for the analysis of university student abandonment
+  * Statistical software to analyze and make a prediction model
+  * Variables to take into account for the realization of a Prediction Model
 * Production, sustainability and success in the primary sector.
   * Sensory analysis with ML models to improve Cheese production.
 * Predictive Analysis using model decisions to identify Zombie Companies.
@@ -52,7 +56,7 @@ The topics of interest include, but are not limited to:
   * Smart City Challenges.
   * Digital divide solutions for Smart Cities.
 
-##  SECURITY ON NFV-SDN-BASED INFRAESTRUCTURES
+##  SECURITY ON NFV-SDN-BASED INFRASTRUCTURES
 * NFV and SDN Architectures, Infrastructure, Elements and Operatios
   * Improvements in design of forwarding elements, e.g. switches/routers, wireless systems
   * Improvements in future communication infrastructure enabled by SDN and NFV
